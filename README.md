@@ -1,6 +1,6 @@
 <div align="center">
 
-# TEMPLATE-AppImage 🐧
+# KBlocks-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/KBlocks-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/KBlocks-AppImage/releases/latest)
 [![CI Build Status](https://github.com/pkgforge-dev/KBlocks-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/KBlocks-AppImage/releases/latest)
